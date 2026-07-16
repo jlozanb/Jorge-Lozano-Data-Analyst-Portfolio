@@ -8,7 +8,7 @@ I'm a Data Analyst with a background in fintech, working across business intelli
 
 I'm currently studying for the **CFA Level I**, deepening my understanding of financial markets and valuation, which I bring back into how I frame and interpret data.
 
-📍 Based in Dublin, Ireland | 🎯 Open to Data Analyst / BI Analyst roles
+📍 Based in Dublin, Ireland | 🎯 Open to Data Analyst opportunities in fintech, financial services or data-driven companies.
 
 ## Projects
 
