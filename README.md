@@ -22,12 +22,14 @@ R-based application to automate the generation of equity research reports by com
 
 **Stack:** R, R Markdown, Shiny, Financial Data APIs, PDF Reporting
 
-### 💹 Financial Portfolio Dashboard
-Interactive Power BI dashboard tracking portfolio allocation, risk metrics and performance attribution.
-- Modeled and cleaned multi-source financial datasets (returns, benchmarks, holdings)
-- Built DAX measures for volatility, Sharpe ratio and drawdown
-- Designed drill-down views for allocation vs. benchmark performance
-**Stack:** Power BI, DAX, Excel
+### 📊 Financial Reporting Automation with Holded, Python & Power BI
+ETL workflow to transform accounting data exported from Holded into structured datasets ready for financial analysis and interactive Power BI dashboards.
+
+- Built a Python-based ETL process to clean, transform and standardize accounting data from Profit & Loss and Balance Sheet reports
+- Automated data preparation workflows to improve consistency and simplify Power BI integration
+- Developed a financial dashboard in Power BI to monitor key accounting metrics and business performance indicators
+
+**Stack:** Python (pandas), Power BI, ETL, Financial Reporting, Data Transformation
 
 ### 📈 Automated Stock Reporting
 Reproducible reporting pipeline: pulls market data via API, runs statistical analysis in R, and auto-generates PDF reports.
