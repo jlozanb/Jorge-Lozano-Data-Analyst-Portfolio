@@ -12,14 +12,13 @@ I'm currently studying for the **CFA Level I**, deepening my understanding of fi
 
 ## Projects
 
-### 📈 Automated Equity Research Report Generator
+### 📈 [Automated Equity Research Report Generator](https://github.com/jlozanb/Automated-Equity-Research-Report-Generator)
+
 R-based application to automate the generation of equity research reports by combining financial data extraction, analysis and automated reporting workflows.
 
 - Built an automated workflow to process financial data and generate structured equity reports in PDF format
 - Developed an R Markdown reporting pipeline integrating financial statements, company metrics and valuation-related information
 - Created an interactive Shiny application to access and visualize generated equity reports
-
-**Repository:** [GitHub](https://github.com/jlozanb/Automated-Equity-Research-Report-Generator)
 
 **Stack:** R, R Markdown, Shiny, Financial Data APIs, PDF Reporting
 
