@@ -22,16 +22,15 @@ R-based application to automate the generation of equity research reports by com
 
 **Stack:** R, R Markdown, Shiny, Financial Data APIs, PDF Reporting
 
-📊 Holded Financial ETL & Power BI Dashboard
+### 📊 Holded Financial ETL & Power BI Dashboard
+
 ETL workflow to transform accounting data exported from Holded into structured datasets ready for financial analysis and interactive Power BI dashboards.
 
-Built a Python-based ETL process to clean, transform and standardize accounting data from Balance Sheet and financial reports.
+- Built a Python-based ETL process to clean, transform and standardize accounting data from Balance Sheet and financial reports.
+- Developed a structured data preparation workflow to improve consistency and simplify Power BI integration.
+- Created a financial dashboard in Power BI to monitor key accounting metrics and business performance indicators.
 
-Developed a structured data preparation workflow to improve consistency and simplify Power BI integration.
-
-Created a financial dashboard in Power BI to monitor key accounting metrics and business performance indicators.
-
-Stack: Python (pandas), Power BI, ETL, Financial Reporting, Data Transformation
+**Stack:** Python (pandas), Power BI, ETL, Financial Reporting, Data Transformation
 
 ### 📈 Automated Stock Reporting
 Reproducible reporting pipeline: pulls market data via API, runs statistical analysis in R, and auto-generates PDF reports.
