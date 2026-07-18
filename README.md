@@ -82,9 +82,9 @@ Building foundations in machine learning and statistical modeling (scikit-learn)
 
 ## Contact
 
-LinkedIn: [https://www.linkedin.com/in/jorge-lozano-52b32b1b8/]
+LinkedIn: https://www.linkedin.com/in/jorge-lozano-52b32b1b8/
 
-Email: [jorgelozanb@gmail.com]
+Email: jorgelozanb@gmail.com
 
 
 
