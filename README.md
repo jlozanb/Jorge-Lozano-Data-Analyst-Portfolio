@@ -1,4 +1,4 @@
-# Jorge Lozano | Data & Finance Analytics Portfolio
+# Jorge Lozano | Data Analytics Portfolio
 
 Data Analyst with 3+ years of experience turning business and operational data into actionable insights using SQL, Python and Power BI.
 
@@ -11,6 +11,8 @@ I'm currently studying for the **CFA Level I**, deepening my understanding of fi
 📍 Based in Dublin, Ireland | 🎯 Open to Data Analyst opportunities in fintech, financial services or data-driven companies.
 
 ## Projects
+
+> _Disclaimer: Projects are inspired by real business cases and use anonymized or public datasets. No confidential data included._
 
 ### 📈 [Equity-Research-Report-Automation](https://github.com/jlozanb/Equity-Research-Report-Automation)
 
@@ -90,47 +92,27 @@ Predictive analytics project developed to identify customers with a higher proba
 
 **Stack:** Python, Pandas, Scikit-Learn, Machine Learning, Feature Engineering, Predictive Analytics
 
+## Core Skills
 
-## Skills
+### 🐍 Programming & Data Analysis
 
-### 🗄️ Databases & Data Warehousing
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-### 📊 BI & Visualization
+### 📊 Business Intelligence & Visualization
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-1a1a1a?style=flat&logo=microsoft&logoColor=white)
 
-### 📈 Product & Marketing Analytics
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
-![ActiveCampaign](https://img.shields.io/badge/ActiveCampaign-EE3F56?style=flat&logo=activecampaign&logoColor=white)
+### ⚙️ Data Workflows & Analytics
 
-### 🐍 Programming & Notebooks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-
-### 🛠️ Monitoring, Admin & API Tools
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-![Forest Admin](https://img.shields.io/badge/Forest%20Admin-1a1a1a?style=flat&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### 📑 Reporting & Collaboration
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-1a1a1a?style=flat&logo=notion&logoColor=white)
-
-### 🚀 Currently Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-
-Building foundations in machine learning and statistical modeling (scikit-learn) and exploring big data tooling (Databricks, PySpark) to move from descriptive to predictive analytics.
+![ETL & Data Transformation](https://img.shields.io/badge/ETL%20%26%20Data%20Transformation-6c757d)
+![Automation](https://img.shields.io/badge/Automation-6c757d)
+![Statistics](https://img.shields.io/badge/Statistics-6c757d)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6c757d)
 
 ## Contact
 
