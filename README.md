@@ -12,7 +12,7 @@ I'm currently studying for the **CFA Level I**, deepening my understanding of fi
 
 ## Projects
 
-### 📈 [Automated Equity Research Report Generator](https://github.com/jlozanb/Automated-Equity-Research-Report-Generator)
+### 📈 [Equity-Research-Report-Automation](https://github.com/jlozanb/Automated-Equity-Research-Report-Generator)
 
 R-based application to automate the generation of equity research reports by combining financial data extraction, analysis and automated reporting workflows.
 
@@ -22,7 +22,7 @@ R-based application to automate the generation of equity research reports by com
 
 **Stack:** R, R Markdown, Shiny, Financial Data APIs, PDF Reporting
 
-### 📊 Holded Financial ETL & Power BI Dashboard
+### 📊 Financial Reporting ETL & Power BI Dashboard
 
 ETL workflow to transform accounting data exported from Holded into structured datasets ready for financial analysis and interactive Power BI dashboards.
 
