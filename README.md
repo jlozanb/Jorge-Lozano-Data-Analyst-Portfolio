@@ -60,7 +60,7 @@ Analytics platform to integrate customer support data from APIs and databases in
 **Stack:** Python, SQL, REST API, Power BI, ETL, Data Transformation, KPI Analytics
 
 
-### 🧪 [A-B-Testing-Experiment-Analysis](https://github.com/jlozanb/A-B-Testing-Experiment-Analysis/tree/main)
+### 🧪 [A-B-Testing-Experiment-Analysis](https://github.com/jlozanb/A-B-Testing-Experiment-Analysis)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-Hypothesis%20Testing-6c757d)
@@ -75,7 +75,7 @@ Statistical experimentation project focused on evaluating business decisions thr
 **Stack:** Python, Statistical Analysis, Hypothesis Testing, A/B Testing, Data Visualization
 
 
-### 🤖 [Customer-Churn-Prediction](https://github.com/jlozanb/Customer-Churn-Prediction/tree/main)
+### 🤖 [Customer-Churn-Prediction](https://github.com/jlozanb/Customer-Churn-Prediction-ML)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6c757d)
