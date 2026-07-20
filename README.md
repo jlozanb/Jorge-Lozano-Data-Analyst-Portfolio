@@ -32,12 +32,15 @@ ETL workflow to transform accounting data exported from Holded into structured d
 
 **Stack:** Python (pandas), Power BI, ETL, Financial Reporting, Data Transformation
 
-### 📈 Automated Stock Reporting
-Reproducible reporting pipeline: pulls market data via API, runs statistical analysis in R, and auto-generates PDF reports.
-- Automated data extraction and cleaning from public market APIs
-- Statistical analysis (returns, volatility, correlation) in R
-- LaTeX templating for polished, auto-updating PDF output
-**Stack:** R, LaTeX, APIs
+### 🎧 Customer-Support-Analytics-Platform[Automated Stock Reporting](https://github.com/jlozanb/Customer-Support-Analytics-Platform/tree/main)
+
+Analytics platform to integrate customer support data from APIs and databases into structured datasets for operational analysis and interactive Power BI dashboards.
+
+- Built a Python-based data workflow to extract, transform and integrate support data from REST APIs and SQL databases.
+- Developed automated KPI preparation processes to monitor team performance, response times and operational metrics.
+- Created a Power BI dashboard to provide visibility into customer support performance and support data-driven decision-making.
+
+**Stack:** Python, SQL, REST API, Power BI, ETL, Data Transformation, KPI Analytics
 
 ## Skills
 
