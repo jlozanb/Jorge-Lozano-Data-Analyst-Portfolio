@@ -75,7 +75,7 @@ Statistical experimentation project focused on evaluating business decisions thr
 **Stack:** Python, Statistical Analysis, Hypothesis Testing, A/B Testing, Data Visualization
 
 
-### 🤖 [Customer-Churn-Prediction](https://github.com/jlozanb/Customer-Churn-Prediction-ML)
+### 🤖 [Customer-Churn-Prediction-ML](https://github.com/jlozanb/Customer-Churn-Prediction-ML)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6c757d)
