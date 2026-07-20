@@ -12,7 +12,7 @@ I'm currently studying for the **CFA Level I**, deepening my understanding of fi
 
 ## Projects
 
-### 📈 [Equity-Research-Report-Automation](https://github.com/jlozanb/Automated-Equity-Research-Report-Generator)
+### 📈 [Equity-Research-Report-Automation](https://github.com/jlozanb/Equity-Research-Report-Automation)
 
 R-based application to automate the generation of equity research reports by combining financial data extraction, analysis and automated reporting workflows.
 
