@@ -10,11 +10,11 @@ I'm currently studying for the **CFA Level I**, deepening my understanding of fi
 
 📍 Based in Dublin, Ireland | 🎯 Open to Data Analyst opportunities in fintech, financial services or data-driven companies.
 
-## Projects
+## Projects (5)
 
 > _Disclaimer: Projects are inspired by real business cases and use anonymized or public datasets. No confidential data included._
 
-### 📈 [Equity-Research-Report-Automation](https://github.com/jlozanb/Equity-Research-Report-Automation)
+### 📈 [1. Equity-Research-Report-Automation](https://github.com/jlozanb/Equity-Research-Report-Automation)
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![R Markdown](https://img.shields.io/badge/R%20Markdown-276DC3?style=flat&logo=r&logoColor=white)
@@ -30,7 +30,7 @@ R-based application to automate the generation of equity research reports by com
 
 **Stack:** R, R Markdown, Shiny, Financial Data APIs, PDF Reporting
 
-### 📊 [Financial Reporting ETL & Power BI Dashboard](https://github.com/jlozanb/Financial-Reporting-ETL-Power-BI-Dashboard)
+### 📊 [2. Financial Reporting ETL & Power BI Dashboard](https://github.com/jlozanb/Financial-Reporting-ETL-Power-BI-Dashboard)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -45,7 +45,7 @@ ETL workflow to transform accounting data exported from Holded into structured d
 
 **Stack:** Python (pandas), Power BI, ETL, Financial Reporting, Data Transformation
 
-### 🎧 [Customer-Support-Analytics-Platform](https://github.com/jlozanb/Customer-Support-Analytics-Platform/tree/main)
+### 🎧 [3. Customer-Support-Analytics-Platform](https://github.com/jlozanb/Customer-Support-Analytics-Platform/tree/main)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -62,7 +62,7 @@ Analytics platform to integrate customer support data from APIs and databases in
 **Stack:** Python, SQL, REST API, Power BI, ETL, Data Transformation, KPI Analytics
 
 
-### 🧪 [A-B-Testing-Experiment-Analysis](https://github.com/jlozanb/A-B-Testing-Experiment-Analysis)
+### 🧪 [4. A-B-Testing-Experiment-Analysis](https://github.com/jlozanb/A-B-Testing-Experiment-Analysis)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-Hypothesis%20Testing-6c757d)
@@ -77,7 +77,7 @@ Statistical experimentation project focused on evaluating business decisions thr
 **Stack:** Python, Statistical Analysis, Hypothesis Testing, A/B Testing, Data Visualization
 
 
-### 🤖 [Customer-Churn-Prediction-ML](https://github.com/jlozanb/Customer-Churn-Prediction-ML)
+### 🤖 [5. Customer-Churn-Prediction-ML](https://github.com/jlozanb/Customer-Churn-Prediction-ML)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6c757d)
@@ -116,9 +116,9 @@ Predictive analytics project developed to identify customers with a higher proba
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/jorge-lozano-52b32b1b8/
+_LinkedIn: https://www.linkedin.com/in/jorge-lozano-52b32b1b8/_
 
-Email: jorgelozanb@gmail.com
+_Email: jorgelozanb@gmail.com_
 
 
 
