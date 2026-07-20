@@ -49,7 +49,6 @@ ETL workflow to transform accounting data exported from Holded into structured d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![API](https://img.shields.io/badge/API-REST%20API-6c757d)
 ![KPIs](https://img.shields.io/badge/KPIs%20%26%20Performance%20Analytics-6c757d)
 
 Analytics platform to integrate customer support data from APIs and databases into structured datasets for operational analysis and interactive Power BI dashboards.
