@@ -24,6 +24,11 @@ R-based application to automate the generation of equity research reports by com
 
 ### 📊 [Financial Reporting ETL & Power BI Dashboard](https://github.com/jlozanb/Financial-Reporting-ETL-Power-BI-Dashboard)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![ETL & Data Transformation](https://img.shields.io/badge/ETL%20%26%20Data%20Transformation-6c757d)
+
 ETL workflow to transform accounting data exported from Holded into structured datasets ready for financial analysis and interactive Power BI dashboards.
 
 - Built a Python-based ETL process to clean, transform and standardize accounting data from Balance Sheet and financial reports.
@@ -33,6 +38,15 @@ ETL workflow to transform accounting data exported from Holded into structured d
 **Stack:** Python (pandas), Power BI, ETL, Financial Reporting, Data Transformation
 
 ### 🎧 [Customer-Support-Analytics-Platform](https://github.com/jlozanb/Customer-Support-Analytics-Platform/tree/main)
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![API](https://img.shields.io/badge/API-REST%20API-6c757d)
+![ETL](https://img.shields.io/badge/ETL%20%26%20Data%20Transformation-6c757d)
+![KPIs](https://img.shields.io/badge/ETL%20%26%20Data%20Transformation-6c757d)
+
 
 Analytics platform to integrate customer support data from APIs and databases into structured datasets for operational analysis and interactive Power BI dashboards.
 
