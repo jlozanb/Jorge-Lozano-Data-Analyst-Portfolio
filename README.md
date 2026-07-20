@@ -59,6 +59,38 @@ Analytics platform to integrate customer support data from APIs and databases in
 
 **Stack:** Python, SQL, REST API, Power BI, ETL, Data Transformation, KPI Analytics
 
+
+### 🧪 [A-B-Testing-Experiment-Analysis](https://github.com/jlozanb/A-B-Testing-Experiment-Analysis/tree/main)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-Hypothesis%20Testing-6c757d)
+![Experimentation](https://img.shields.io/badge/A%2FB%20Testing-6c757d)
+
+Statistical experimentation project focused on evaluating business decisions through controlled A/B tests and data-driven analysis.
+
+- Designed hypothesis testing workflows to compare control and treatment groups using statistical significance methods.
+- Applied statistical techniques to evaluate conversion metrics, confidence intervals and experiment performance.
+- Generated actionable insights to support decision-making based on experimental results.
+
+**Stack:** Python, Statistical Analysis, Hypothesis Testing, A/B Testing, Data Visualization
+
+
+### 🤖 [Customer-Churn-Prediction](https://github.com/jlozanb/Customer-Churn-Prediction/tree/main)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6c757d)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-6c757d)
+
+Predictive analytics project developed to identify customers with a higher probability of churn and understand the main factors driving customer retention.
+
+- Built machine learning models to predict customer churn using classification algorithms.
+- Performed exploratory data analysis and feature engineering to identify relevant churn patterns.
+- Applied model evaluation techniques and interpretability methods to generate actionable retention insights.
+
+**Stack:** Python, Pandas, Scikit-Learn, Machine Learning, Feature Engineering, Predictive Analytics
+
+
 ## Skills
 
 ### 🗄️ Databases & Data Warehousing
