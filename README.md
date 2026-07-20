@@ -22,7 +22,7 @@ R-based application to automate the generation of equity research reports by com
 
 **Stack:** R, R Markdown, Shiny, Financial Data APIs, PDF Reporting
 
-### 📊 Financial Reporting ETL & Power BI Dashboard
+### 📊 [Financial Reporting ETL & Power BI Dashboard](https://github.com/jlozanb/Financial-Reporting-ETL-Power-BI-Dashboard)
 
 ETL workflow to transform accounting data exported from Holded into structured datasets ready for financial analysis and interactive Power BI dashboards.
 
@@ -32,7 +32,7 @@ ETL workflow to transform accounting data exported from Holded into structured d
 
 **Stack:** Python (pandas), Power BI, ETL, Financial Reporting, Data Transformation
 
-### 🎧 Customer-Support-Analytics-Platform[Automated Stock Reporting](https://github.com/jlozanb/Customer-Support-Analytics-Platform/tree/main)
+### 🎧 [Customer-Support-Analytics-Platform](https://github.com/jlozanb/Customer-Support-Analytics-Platform/tree/main)
 
 Analytics platform to integrate customer support data from APIs and databases into structured datasets for operational analysis and interactive Power BI dashboards.
 
