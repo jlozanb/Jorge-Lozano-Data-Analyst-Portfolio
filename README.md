@@ -14,6 +14,12 @@ I'm currently studying for the **CFA Level I**, deepening my understanding of fi
 
 ### 📈 [Equity-Research-Report-Automation](https://github.com/jlozanb/Equity-Research-Report-Automation)
 
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![R Markdown](https://img.shields.io/badge/R%20Markdown-276DC3?style=flat&logo=r&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R%20Shiny-75AADB?style=flat)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Financial API](https://img.shields.io/badge/Financial%20API-6c757d?style=flat)
+
 R-based application to automate the generation of equity research reports by combining financial data extraction, analysis and automated reporting workflows.
 
 - Built an automated workflow to process financial data and generate structured equity reports in PDF format
@@ -44,9 +50,7 @@ ETL workflow to transform accounting data exported from Holded into structured d
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![API](https://img.shields.io/badge/API-REST%20API-6c757d)
-![ETL](https://img.shields.io/badge/ETL%20%26%20Data%20Transformation-6c757d)
-![KPIs](https://img.shields.io/badge/ETL%20%26%20Data%20Transformation-6c757d)
-
+![KPIs](https://img.shields.io/badge/KPIs%20%26%20Performance%20Analytics-6c757d)
 
 Analytics platform to integrate customer support data from APIs and databases into structured datasets for operational analysis and interactive Power BI dashboards.
 
