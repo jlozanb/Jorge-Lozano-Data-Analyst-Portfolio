@@ -55,11 +55,11 @@ ETL workflow to transform accounting data exported from Holded into structured d
 
 Analytics platform to integrate customer support data from APIs and databases into structured datasets for operational analysis and interactive Power BI dashboards.
 
-- Built a Python-based data workflow to extract, transform and integrate support data from REST APIs and SQL databases.
+- Built a Python-based data workflow to extract, transform and integrate support data from SQL databases.
 - Developed automated KPI preparation processes to monitor team performance, response times and operational metrics.
 - Created a Power BI dashboard to provide visibility into customer support performance and support data-driven decision-making.
 
-**Stack:** Python, SQL, REST API, Power BI, ETL, Data Transformation, KPI Analytics
+**Stack:** Python, SQL, Power BI, ETL, Data Transformation, KPI Analytics
 
 
 ### 🧪 [4. A-B-Testing-Experiment-Analysis](https://github.com/jlozanb/A-B-Testing-Experiment-Analysis)
