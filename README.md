@@ -47,20 +47,18 @@ ETL workflow to transform accounting data exported from Holded into structured d
 
 ### 🎧 [3. Customer-Support-Analytics-Platform](https://github.com/jlozanb/Customer-Support-Analytics-Platform/tree/main)
 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![KPIs](https://img.shields.io/badge/KPIs%20%26%20Performance%20Analytics-6c757d)
+![ETL](https://img.shields.io/badge/ETL%20%26%20Data%20Transformation-6c757d)
+ 
+SQL-based analytics project for a customer support ticketing system, turning raw ticket data into KPI-ready datasets for an interactive Power BI dashboard.
+ 
+- Designed a relational ticketing data model and three SQL queries covering case-level detail, team performance and SLA tracking.
+- Defined the KPIs themselves (first response resolution rate, productivity vs target, resolution time by category) to reflect what actually drives support team efficiency, not just report on volume.
+- Built a Power BI dashboard with Power Query and DAX transformations to give managers real-time visibility into support performance.
 
-Analytics platform to integrate customer support data from APIs and databases into structured datasets for operational analysis and interactive Power BI dashboards.
-
-- Built a Python-based data workflow to extract, transform and integrate support data from SQL databases.
-- Developed automated KPI preparation processes to monitor team performance, response times and operational metrics.
-- Created a Power BI dashboard to provide visibility into customer support performance and support data-driven decision-making.
-
-**Stack:** Python, SQL, Power BI, ETL, Data Transformation, KPI Analytics
-
+**Stack:** SQL, PostgreSQL, Power BI, Power Query, DAX, KPI Design
 
 ### 🧪 [4. A-B-Testing-Experiment-Analysis](https://github.com/jlozanb/A-B-Testing-Experiment-Analysis)
 
