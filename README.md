@@ -83,10 +83,10 @@ Statistical experimentation project focused on evaluating business decisions thr
 ![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-6c757d)
 
 Predictive analytics project developed to identify customers with a higher probability of churn and understand the main factors driving customer retention.
-
-- Built machine learning models to predict customer churn using classification algorithms.
-- Performed exploratory data analysis and feature engineering to identify relevant churn patterns.
-- Applied model evaluation techniques and interpretability methods to generate actionable retention insights.
+ 
+* Built and compared two classification models (Logistic Regression, Random Forest) to predict customer churn on an imbalanced target (17.8% churn rate).
+* Performed exploratory data analysis and feature engineering, including explicit handling of missing values that carry meaning (customers who never contacted support).
+* Evaluated models with precision, recall, ROC-AUC and confusion matrices rather than accuracy alone, and translated feature importance into concrete retention recommendations.
 
 **Stack:** Python, Pandas, Scikit-Learn, Machine Learning, Feature Engineering, Predictive Analytics
 
