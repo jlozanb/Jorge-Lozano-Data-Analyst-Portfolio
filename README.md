@@ -27,6 +27,7 @@ An R application that automates the creation of equity research reports, from pu
 - Built a workflow that processes financial data and generates equity research reports in PDF format automatically
 - Used R Markdown to combine financial statements, company metrics and valuation information into one reporting pipeline
 - Built a Shiny app so users can browse and view the generated reports interactively
+
 **Stack:** R, R Markdown, Shiny, Financial Data APIs, PDF Reporting
  
 ### 📊 [2. Financial Reporting ETL & Power BI Dashboard](https://github.com/jlozanb/Financial-Reporting-ETL-Power-BI-Dashboard)
@@ -41,6 +42,7 @@ An ETL pipeline that takes accounting data exported from Holded and turns it int
 - Built a Python process using pandas to clean, transform and standardize accounting data from balance sheets and financial reports
 - Structured the data preparation steps so the output would be consistent and easy to plug into Power BI
 - Built a Power BI dashboard to track key accounting metrics and business performance
+
 **Stack:** Python (pandas), Power BI, ETL, Financial Reporting, Data Transformation
  
 ### 🎧 [3. Customer Support Analytics Platform](https://github.com/jlozanb/Customer-Support-Analytics-Platform/tree/main)
@@ -55,6 +57,7 @@ A SQL analytics project for a customer support ticketing system, turning raw tic
 - Designed a relational data model for tickets and wrote three SQL queries covering case level detail, team performance and SLA tracking
 - Defined the KPIs myself (first response resolution rate, productivity vs target, resolution time by category), focused on what actually shows how efficient the support team is, not just ticket volume
 - Built a Power BI dashboard with Power Query and DAX to give managers real time visibility into support performance
+  
 **Stack:** SQL, PostgreSQL, Power BI, Power Query, DAX, KPI Design
  
 ### 🧪 [4. A/B Testing Experiment Analysis](https://github.com/jlozanb/A-B-Testing-Experiment-Analysis)
@@ -68,6 +71,7 @@ A statistics project looking at how to evaluate business decisions through contr
 - Set up hypothesis testing to compare control and treatment groups using statistical significance methods
 - Used conversion metrics, confidence intervals and other statistical techniques to evaluate the experiment results
 - Turned the results into practical insights that could support a real decision
+
 **Stack:** Python, Statistical Analysis, Hypothesis Testing, A/B Testing, Data Visualization
  
 ### 🤖 [5. Customer Churn Prediction ML](https://github.com/jlozanb/Customer-Churn-Prediction-ML)
@@ -82,6 +86,7 @@ A predictive analytics project to identify which customers are more likely to ch
 - Built and compared two classification models (Logistic Regression, Random Forest) to predict churn on an imbalanced target, only 17.8% of customers in the data actually churned
 - Did exploratory data analysis and feature engineering, including handling missing values that actually meant something, for example customers who never contacted support
 - Evaluated the models using precision, recall, ROC AUC and confusion matrices instead of just accuracy, and turned feature importance into concrete retention recommendations
+
 **Stack:** Python, Pandas, Scikit Learn, Machine Learning, Feature Engineering, Predictive Analytics
  
 ## Core Skills
