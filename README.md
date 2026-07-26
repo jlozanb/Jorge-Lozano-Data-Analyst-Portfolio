@@ -10,7 +10,7 @@ I'm currently studying for the **CFA Level I**. It's helping me understand finan
  
 🎯 Open to Data Analyst opportunities in fintech, financial services or data driven companies.
  
-## Projects (5)
+## Projects
  
 > _Disclaimer: Projects are inspired by real business cases and use anonymized or public datasets. No confidential data included._
  
@@ -59,7 +59,9 @@ A SQL analytics project for a customer support ticketing system, turning raw tic
 - I built a Power BI dashboard with Power Query and DAX so managers can see support performance in real time
 
 **Stack:** SQL, PostgreSQL, Power BI, Power Query, DAX, KPI Design
- 
+
+
+<!-- 
 ### 🧪 [4. A/B Testing Experiment Analysis](https://github.com/jlozanb/A-B-Testing-Experiment-Analysis)
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -88,6 +90,8 @@ A predictive analytics project to find which customers are more likely to churn,
 - I evaluated the models using precision, recall, ROC AUC and confusion matrices instead of just accuracy, and turned feature importance into practical retention recommendations
 
 **Stack:** Python, Pandas, Scikit Learn, Machine Learning, Feature Engineering, Predictive Analytics
+
+-->
  
 ## Core Skills
  
