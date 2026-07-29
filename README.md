@@ -1,4 +1,4 @@
-# Jorge Lozano | Data Analytics Portfolio
+# Jorge Lozano | Data Analytics Portfolio 
 
 Data Analyst with 3+ years of experience turning business and operational data into useful insights using SQL, Python and Power BI.
  
