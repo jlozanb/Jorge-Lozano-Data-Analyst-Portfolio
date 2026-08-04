@@ -2,7 +2,7 @@
 
 Data Analyst with 3+ years of experience turning business and operational data into useful insights using SQL, Python and Power BI.
  
-## About Me
+## About Me 
  
 I'm a Data Analyst with a background in fintech, working across different departments including marketing, support, sales, product and antifraud. My focus has been business intelligence, reporting and business analysis to support data driven decisions, and also automating analytical processes. I've also worked more directly within the finance department.
  
